@@ -23,7 +23,7 @@ https://neuefische.de
 
 [Link text/Label](https://neuefische.de)
 
-![Avatar of pixelass](![grafik](https://user-images.githubusercontent.com/109968270/180796935-7828fcaa-8798-4099-b582-c248104557e6.png)
+![grafik](https://user-images.githubusercontent.com/109968270/180796935-7828fcaa-8798-4099-b582-c248104557e6.png)
 
 ...
 Hey my name is Steve!
